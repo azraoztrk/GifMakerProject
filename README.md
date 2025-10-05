@@ -1,4 +1,4 @@
-# 🖼️ GIF Maker (PIL ile Basit GIF Oluşturucu)
+# 🖼️ GIF Maker (PIL ile Basit GIF Oluşturucu) 
 
 Bu küçük Python projesi, iki adet görseli kullanarak kolayca GIF animasyonu oluşturmamızı sağlar.  
 Pillow (PIL) kütüphanesini kullanır ve sadece birkaç satır kodla çalışır.
@@ -15,15 +15,12 @@ Pillow (PIL) kütüphanesini kullanır ve sadece birkaç satır kodla çalışı
 - [Pillow](https://pypi.org/project/Pillow/) kütüphanesi
 
 Kurulum:
-```bash
 pip install pillow
-
 ---
-
 # 🖼️ GIF Maker (Python + Pillow)
 
 A simple Python script that creates an animated GIF from multiple images using the **Pillow (PIL)** library.  
-Perfect for quick image animations or fun mini-projects! 🎞️
+Perfect for quick image animations or fun mini-projects! 
 
 
 ## 🚀 Features
@@ -40,5 +37,4 @@ Perfect for quick image animations or fun mini-projects! 🎞️
 - [Pillow](https://pypi.org/project/Pillow/) library
 
 Install with:
-```bash
 pip install pillow
